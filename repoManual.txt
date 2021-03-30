@@ -22,7 +22,7 @@
 4. Open Terminal
 5. cd  where you keep your git repos
 6. git clone h[ttps://github.com/fatihtepe/creating_repoManual.git](https://github.com/fatihtepe/creating_repoManual.git) now we cloned your github repository to our working area
-7. cd creating_repo Manual 
+7. cd creating_repoManual # Space between repo and Manual deleted by Strato33
 8. You don`t need to use git init to initiate a repo when you clone it from remote
 9. git branch (before creating new new branch let's check where we are (q))
 10. git branch manual (creating manual branch)
